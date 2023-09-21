@@ -26,8 +26,9 @@
   <h3 align="left">Connect with me:</h3>
 
   <p>
-<a href="https://linkedin.com/in/linkedin.com/in/karan-devkate-374036203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/karan-devkate-374036203" height="30" width="40" /></a>
-    <img src="https://raw.githubusercontent.com/danielcranney/re…generator/main/public/icons/socials/instagram.svg">
+ <a href="mailto:karandevkate225@gmail.com"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/gmail.svg" alt="gmail" style="max-width: 100%;"></a>
+  <a href="[https://linkedin.com/in/pratik-pingale](https://www.linkedin.com/in/karan-devkate-374036203/)" rel="nofollow"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/linkedin.svg" alt="pratik-pingale" style="max-width: 100%;"></a>
+<!--   <a href="https://www.instagram.com/pro_x_zima/" rel="nofollow"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="pro_x_zima" style="max-width: 100%;"></a> -->
   </p>
 </div>
 
