@@ -26,7 +26,7 @@
   <h3 align="left">Connect with me:</h3>
 
   <p>
-You can reach me via email: [Email me](mailto:karandevkate225@gmail.com)
+You can reach me via email: [Email me]<a href="mailto:karandevkate225@gmail.com?">
 
 You can also follow me on Instagram: [Follow me on Instagram](https://www.instagram.com/your_instagram_username/)
 
