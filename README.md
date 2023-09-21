@@ -24,13 +24,15 @@
 
 <div>
   <h3 align="left">Connect with me:</h3>
-
+ <p>
+   <a href="https://www.linkedin.com/in/your_linkedin_username/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  </p>
   <p>
-    You can reach me via email: <a href="mailto:karandevkate225@gmail.com" ><img src="https://img.shields.io/badge/gmail-%23DD0031.svg" /></a>
+  <a href="mailto:karandevkate225@gmail.com" ><img src="https://img.shields.io/badge/gmail-%23DD0031.svg" /></a>
   </p>
 
   <p>
-    You can also follow me on Instagram: <a href="https://www.instagram.com/imr_karan_devkate/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" /></a>
+ <a href="https://www.instagram.com/imr_karan_devkate/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" /></a>
   </p>
 </div>
 
