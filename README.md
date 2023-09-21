@@ -9,7 +9,7 @@
  <li><b> 🚀 Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
  <li> <b>🌐 ReactJS:</b> Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
  <li><b>📜 JavaScript & jQuery:</b> Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
- <li><b>🎨 Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
+ <li><b> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
 </ul>
 </div>
 <hr>
