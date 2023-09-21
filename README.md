@@ -1,4 +1,4 @@
-👋 Hello World! I'm <b>Karan Devkate<b> a passionate Computer Engineer with a strong background in software development and a love for building robust and user-friendly web applications.
+👋 Hello World! I'm <b>Karan Devkate</b> a passionate Computer Engineer with a strong background in software development and a love for building robust and user-friendly web applications.
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 
