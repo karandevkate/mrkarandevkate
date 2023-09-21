@@ -30,7 +30,7 @@ You can reach me via email: [Email me]<a href="mailto:karandevkate225@gmail.com?
 
 You can also follow me on Instagram: [Follow me on Instagram](https://www.instagram.com/your_instagram_username/)
 
-<!--   <a href="https://www.instagram.com/pro_x_zima/" rel="nofollow"><img src="https://raw.githubusercontent.com/PROxZIMA/PROxZIMA/master/src/social/instagram.svg" alt="pro_x_zima" style="max-width: 100%;"></a> -->
+
   </p>
 </div>
 
