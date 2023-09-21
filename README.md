@@ -1,13 +1,16 @@
-👋 Hello World! I'm <b>Karan Devkate</b> a passionate Computer Engineer with a strong background in software development and a love for building robust and user-friendly web applications.
+<h1 align="center">Hi 👋, I'm Karan Devkate</h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
 –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+<ul>
+  <li>💼 I have experience in the field, specializing in:</li>
+ <li>💻 Java: Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
+ <li> 🚀 Spring Boot: Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
+ <li> 🌐 ReactJS: Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
+ <li>📜 JavaScript & jQuery: Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
+ <li>🎨 Bootstrap: Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
+</ul>
 
-💼 I have experience in the field, specializing in:
-- 💻 Java: Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.
-- 🚀 Spring Boot: Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.
-- 🌐 ReactJS: Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.
-- 📜 JavaScript & jQuery: Mastering the art of client-side scripting for responsive and feature-rich web applications.
-- 🎨 Bootstrap: Designing sleek and responsive UIs with Bootstrap to enhance user experiences.
 
 🔨 I enjoy tackling challenging problems, optimizing code for performance, and staying up-to-date with the ever-evolving tech landscape.
 
