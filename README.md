@@ -26,7 +26,7 @@
   <h3 align="left">Connect with me:</h3>
  <p>
    <a href="
-linkedin.com/in/karan-devkate-374036203" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
+linkedin.com/in/karan-devkate-374036203/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
   </p>
   <p>
   <a href="mailto:karandevkate225@gmail.com" ><img src="https://img.shields.io/badge/gmail-%23DD0031.svg" /></a>
