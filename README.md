@@ -8,8 +8,8 @@
  <li><b>💻 Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
  <li><b> 🚀 Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
  <li> <b>🌐 ReactJS:</b> Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
- <li><b>📜 JavaScript & jQuery:</b> Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
- <li><b> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/> </a> Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
+ <li><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> JavaScript & jQuery:</b> Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
+ <li><b>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
 </ul>
 </div>
 <hr>
