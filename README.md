@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Karan Devkate</h1>
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
+<div>
+  
   <p>💼 I have experience in the field, specializing in:</p>
 <ul>
  <li><b>💻 Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
@@ -10,6 +11,7 @@
  <li><b>📜 JavaScript & jQuery:</b> Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
  <li><b>🎨 Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
 </ul>
+</div>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
