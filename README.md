@@ -2,8 +2,8 @@
 <hr>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <hr>
+  <p>💼 I have experience in the field, specializing in:</p>
 <ul>
-  <li>💼 I have experience in the field, specializing in:</li>
  <li>💻 Java: Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
  <li> 🚀 Spring Boot: Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
  <li> 🌐 ReactJS: Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
