@@ -6,10 +6,10 @@
     <p>🌟 My GitHub is where you'll find a collection of my projects, ranging from personal experiments to professional endeavors. Feel free to explore my repositories and contribute to the open-source community.    </p>
     <p>🚀 Let's code, build, and innovate together to make the digital world a better place!</p>
 </div>
-<div>
 
   <hr>
-  
+<div>
+
   <p>💼 I have experience in the field, specializing in:</p>
 <ul>
   
