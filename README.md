@@ -5,10 +5,10 @@
   <p>💼 I have experience in the field, specializing in:</p>
 <ul>
  <li><b>💻 Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
- <li> 🚀 Spring Boot: Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
- <li> 🌐 ReactJS: Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
- <li>📜 JavaScript & jQuery: Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
- <li>🎨 Bootstrap: Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
+ <li><b> 🚀 Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
+ <li> <b>🌐 ReactJS:</b> Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
+ <li><b>📜 JavaScript & jQuery:</b> Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
+ <li><b>🎨 Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
 </ul>
 <hr>
 <h3 align="left">Connect with me:</h3>
