@@ -4,7 +4,7 @@
 <hr>
   <p>💼 I have experience in the field, specializing in:</p>
 <ul>
- <li>💻 Java: Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
+ <li><b>💻 Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
  <li> 🚀 Spring Boot: Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
  <li> 🌐 ReactJS: Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
  <li>📜 JavaScript & jQuery: Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
