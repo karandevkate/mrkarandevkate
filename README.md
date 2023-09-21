@@ -30,7 +30,13 @@
   <p>🚀 Let's code, build, and innovate together to make the digital world a better place!</p>
 </div>
 
+<hr>
 
+<div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrkarandevkate&show_icons=true&locale=en&layout=compact" alt="imrkarandevkate" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrkarandevkate&show_icons=true&locale=en" alt="imrkarandevkate" /></p>
+</div>
 
 
 
