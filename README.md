@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Devkate</h1>
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<hr style="height:1">
+
   <p>💼 I have experience in the field, specializing in:</p>
 <ul>
  <li><b>💻 Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
