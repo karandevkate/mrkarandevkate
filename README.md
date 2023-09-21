@@ -6,7 +6,7 @@
   <p>💼 I have experience in the field, specializing in:</p>
 <ul>
   
- <li><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>  Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
+ <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>  <b>Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
  <li><b><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
  <li> <b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>ReactJS:</b> Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
  <li><b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> JavaScript & jQuery:</b> Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
