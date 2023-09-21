@@ -26,11 +26,11 @@
   <h3 align="left">Connect with me:</h3>
 
   <p>
-    You can reach me via email: <a href="mailto:karandevkate225@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg" /></a>
+    You can reach me via email: <a href="mailto:karandevkate225@gmail.com" ><img src="https://img.shields.io/badge/gmail-%23DD0031.svg" /></a>
   </p>
 
   <p>
-    You can also follow me on Instagram: <a href="https://www.instagram.com/imr_karan_devkate/">Follow me on Instagram</a>
+    You can also follow me on Instagram: <a href="https://www.instagram.com/imr_karan_devkate/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" /></a>
   </p>
 </div>
 
