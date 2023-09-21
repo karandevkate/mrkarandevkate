@@ -10,7 +10,11 @@
  <li>📜 JavaScript & jQuery: Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
  <li>🎨 Bootstrap: Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
 </ul>
-
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/karan-devkate-374036203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/karan-devkate-374036203" height="30" width="40" /></a>
+</p>
 
 🔨 I enjoy tackling challenging problems, optimizing code for performance, and staying up-to-date with the ever-evolving tech landscape.
 
