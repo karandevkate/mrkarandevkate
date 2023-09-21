@@ -22,16 +22,18 @@
 </div>
 <hr>
 
-<div ">
+<div>
   <h3 align="left">Connect with me:</h3>
 
   <p>
-
     You can reach me via email: <a href="mailto:karandevkate225@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg" /></a>
+  </p>
 
+  <p>
     You can also follow me on Instagram: <a href="https://www.instagram.com/your_instagram_username/">Follow me on Instagram</a>
   </p>
 </div>
+
 
 
 
