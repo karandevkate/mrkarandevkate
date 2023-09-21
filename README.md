@@ -2,11 +2,13 @@
 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <div>
-  <p>🔨 I enjoy tackling challenging problems, optimizing code for performance, and staying up-to-date with the ever-evolving tech landscape.</p>
-  <p>🌟 My GitHub is where you'll find a collection of my projects, ranging from personal experiments to professional endeavors. Feel free to explore my repositories and contribute to the open-source community.</p>
-  <p>🚀 Let's code, build, and innovate together to make the digital world a better place!</p>
+    <p>🔨 I enjoy tackling challenging problems, optimizing code for performance, and staying up-to-date with the ever-evolving tech landscape.</p>
+    <p>🌟 My GitHub is where you'll find a collection of my projects, ranging from personal experiments to professional endeavors. Feel free to explore my repositories and contribute to the open-source community.    </p>
+    <p>🚀 Let's code, build, and innovate together to make the digital world a better place!</p>
 </div>
 <div>
+
+  <hr>
   
   <p>💼 I have experience in the field, specializing in:</p>
 <ul>
