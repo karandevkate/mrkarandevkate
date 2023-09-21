@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/linkedin.com/in/karan-devkate-374036203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/karan-devkate-374036203" height="30" width="40" /></a>
 </p>
 
-<hr>
+
 🔨 I enjoy tackling challenging problems, optimizing code for performance, and staying up-to-date with the ever-evolving tech landscape.
 
 🌟 My GitHub is where you'll find a collection of my projects, ranging from personal experiments to professional endeavors. Feel free to explore my repositories and contribute to the open-source community.
