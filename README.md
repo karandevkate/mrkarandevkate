@@ -26,9 +26,16 @@
   <h3 align="left">Connect with me:</h3>
 
   <p>
-You can reach me via email: [Email me]<a href="mailto:karandevkate225@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg /></a>
+<div>
+  <h3 align="left">Connect with me:</h3>
 
-You can also follow me on Instagram: [Follow me on Instagram](https://www.instagram.com/your_instagram_username/)
+  <p>
+    You can reach me via email: <a href="mailto:karandevkate225@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg" /></a>
+
+    You can also follow me on Instagram: <a href="https://www.instagram.com/your_instagram_username/">Follow me on Instagram</a>
+  </p>
+</div>
+
 
 
   </p>
