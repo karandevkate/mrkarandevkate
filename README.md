@@ -30,7 +30,7 @@
   </p>
 
   <p>
-    You can also follow me on Instagram: <a href="https://www.instagram.com/your_instagram_username/">Follow me on Instagram</a>
+    You can also follow me on Instagram: <a href="https://www.instagram.com/imr_karan_devkate/">Follow me on Instagram</a>
   </p>
 </div>
 
