@@ -39,7 +39,7 @@
   </li>
     <hr>
     
-  <h6>My Experience with Databases:</p>
+  <h6>My Experience with Databases:</h6>
   <li>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>  
     <b>MySQL:</b> Experienced in using MySQL to design and manage relational databases, optimize queries, and ensure efficient data storage and retrieval for production systems.
