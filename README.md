@@ -12,14 +12,41 @@
 
   <p>💼 I have experience in the field, specializing in:</p>
 <ul>
-  
- <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>  <b>Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.</li>
- <li><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> <b> Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.</li>
- <li><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Network_Icon.svg" width="20" height="20"/> <b>Microservices Architecture:</b> Designing and implementing distributed systems with a microservices architecture to ensure scalability, fault-tolerance, and maintainability. Experienced in inter-service communication with REST and API gateways.</li>
- <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/><b> ReactJS:</b> Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.</li>
- <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <b>  JavaScript & jQuery:</b> Mastering the art of client-side scripting for responsive and feature-rich web applications.</li>
- <li> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/><b> Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.</li>
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>  
+    <b>Java:</b> Harnessing the capabilities of Java to develop backend systems that are both scalable and efficient.
+  </li>
+  <li>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/> 
+    <b>Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Network_Icon.svg" width="20" height="20"/> 
+    <b>Microservices Architecture:</b> Designing and implementing distributed systems with a microservices architecture to ensure scalability, fault-tolerance, and maintainability. Experienced in inter-service communication with REST and API gateways.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
+    <b>ReactJS:</b> Building dynamic and interactive front-end interfaces using the latest ReactJS technologies.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
+    <b>JavaScript & jQuery:</b> Mastering the art of client-side scripting for responsive and feature-rich web applications.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>
+    <b>Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.
+  </li>
+  <h3>My Experience with Databases:</h3>
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
+    <b>MySQL:</b> Experienced in using MySQL to design and manage relational databases, optimize queries, and ensure efficient data storage and retrieval for production systems.
+  </li>
+  <li>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    <b>PostgreSQL:</b> Proficient in PostgreSQL for managing complex datasets, optimizing performance, and utilizing advanced features such as indexing, JSON support, and custom functions.
+  </li>
 </ul>
+
 </div>
 <hr>
 
