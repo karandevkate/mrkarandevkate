@@ -18,7 +18,7 @@
   </li>
   <li>
 <!--     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/>  -->
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="20" height="20"/>   
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="20" height="20"/>   
     <b>Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.
   </li>
   <li>
@@ -37,13 +37,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>
     <b>Bootstrap:</b> Designing sleek and responsive UIs with Bootstrap to enhance user experiences.
   </li>
-  <h3>My Experience with Databases:</h3>
+    
+  <p>My Experience with Databases:</p>
   <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/>  
     <b>MySQL:</b> Experienced in using MySQL to design and manage relational databases, optimize queries, and ensure efficient data storage and retrieval for production systems.
   </li>
   <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/> 
     <b>PostgreSQL:</b> Proficient in PostgreSQL for managing complex datasets, optimizing performance, and utilizing advanced features such as indexing, JSON support, and custom functions.
   </li>
 </ul>
