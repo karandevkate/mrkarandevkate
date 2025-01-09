@@ -21,7 +21,7 @@
     <b>Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.
   </li>
   <li>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Network_Icon.svg" width="20" height="20"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="20" height="20"/> 
     <b>Microservices Architecture:</b> Designing and implementing distributed systems with a microservices architecture to ensure scalability, fault-tolerance, and maintainability. Experienced in inter-service communication with REST and API gateways.
   </li>
   <li>
