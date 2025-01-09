@@ -18,7 +18,7 @@
   </li>
   <li>
 <!--     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="20" height="20"/>  -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="20" height="20"/> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="20" height="20"/>   
     <b>Spring Boot:</b> Crafting RESTful APIs and microservices with Spring Boot for high-performance applications.
   </li>
   <li>
