@@ -70,5 +70,5 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrkarandevkate&layout=compact&theme=radical" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrkarandevkate&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkarandevkate&layout=compact&theme=radical" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkarandevkate&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
