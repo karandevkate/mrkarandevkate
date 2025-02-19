@@ -72,3 +72,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkarandevkate&layout=compact&theme=radical" alt="Top Languages" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkarandevkate&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkarandevkate&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrkarandevkate&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mrkarandevkate&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
+</p>
