@@ -70,7 +70,5 @@
 
 <hr>
 
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imrkarandevkate&show_icons=true&locale=en&layout=compact&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" alt="Top Languages" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrkarandevkate&show_icons=true&locale=en&amp;title_color=0891b2&amp;text_color=ffffff&amp;icon_color=0891b2&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" alt="GitHub Stats" /></p>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrkarandevkate&layout=compact&theme=radical" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imrkarandevkate&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
