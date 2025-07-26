@@ -1,77 +1,81 @@
 <h1 align="center">Hi 👋, I'm <u>Karan Devkate</u></h1>
 
-<h3 align="center">A passionate Java Developer from India</h3>
+<h3 align="center">A passionate Java & Full Stack Developer from India 🇮🇳</h3>
 
-<div>
-    <p>🔨 I enjoy tackling challenging problems, optimizing code for performance, and staying up-to-date with the ever-evolving tech landscape.</p>
-    <p>🌟 My GitHub is where you'll find a collection of my projects, ranging from personal experiments to professional endeavors. Feel free to explore my repositories and contribute to the open-source community.</p>
-    <p>🚀 Let's code, build, and innovate together to make the digital world a better place!</p>
-</div>
+---
 
-<hr>
+### 🚀 About Me
 
-<div>
-  <h3>💼 Technical Expertise:</h3>
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>  
-    <b>Java:</b> Developing scalable and efficient backend systems.
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="20" height="20"/> 
-    <b>Spring Boot:</b> Building RESTful APIs and microservices for high-performance applications.
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="20" height="20"/> 
-    <b>Microservices Architecture:</b> Designing scalable, fault-tolerant distributed systems using REST and API gateways.
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
-    <b>ReactJS:</b> Developing dynamic and interactive front-end interfaces.
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
-    <b>JavaScript & jQuery:</b> Crafting responsive and feature-rich web applications.
-  </li>
-  <li>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>
-    <b>Bootstrap:</b> Creating sleek and responsive UIs.
-  </li>
-</ul>
-</div>
+- 🔭 Software Engineer at **First Quad Tech Solutions**
+- 🧠 Specializing in **Java (8/17)**, **Spring Boot**, **Microservices**, **RESTful APIs**, and **Cloud Deployment (AWS)**
+- 🌐 Full Stack Experience with **React.js**, **Next.js**, **Bootstrap**, and robust backend development
+- 📦 Strong background in **PostgreSQL**, **MySQL**, and **API security (RBAC, Resilience4j)**
+- 🧪 Proficient in testing & documentation tools like **Postman** and **Swagger**
+- 🌱 Currently deep-diving into **cloud-native patterns** and **distributed systems**
 
-<hr>
+---
 
-<div>
-  <h3>🗄️ Database Experience:</h3>
-  <ul>
-    <li>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="20" height="20"/>  
-      <b>MySQL:</b> Designing and managing relational databases, optimizing queries, and ensuring efficient data storage.
-    </li>
-    <li>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="20" height="20"/> 
-      <b>PostgreSQL:</b> Managing complex datasets with indexing, JSON support, and custom functions.
-    </li>
-  </ul>
-</div>
+### 🛠️ Core Technologies & Tools
 
-<hr>
+#### 🧰 Backend & Architecture
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=flat-square)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka)
+![Resilience4j](https://img.shields.io/badge/Resilience4j-00C7B7?style=flat-square)
+![Eureka](https://img.shields.io/badge/Eureka-006400?style=flat-square)
 
-<div>
-  <h3>📬 Connect with me:</h3>
-  <p>
-    <a href="https://www.linkedin.com/in/karandevkate/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  </p>
-  <p>
-    <a href="mailto:karandevkate225@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg" /></a>
-  </p>
-</div>
+#### 🧱 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-<hr>
+#### 🗄️ Databases & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkarandevkate&layout=compact&theme=radical" alt="Top Languages" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrkarandevkate&show_icons=true&theme=radical" alt="GitHub Stats" /></p>
+#### 🧪 Tools & Methodologies
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square)
+
+---
+
+### 📚 Key Projects
+
+#### 🔹 **Society Maintenance System** (Java, Spring Boot, Next.js)
+- Modular full stack app for managing housing society operations
+- Implemented **RBAC**, **secure email notifications**, and **PostgreSQL** schema design
+
+#### 🔹 **Company Rating App** (Microservices, Spring Boot, React)
+- Scalable review platform with **Eureka**, **Swagger**, and real-time **WebClient** communication
+
+#### 🔹 **Online Student Exam Portal** (Spring Boot, SQL, Bootstrap)
+- Developed dynamic exam platform with CRUD support and interactive front-end using **Ajax** & **jQuery**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrkarandevkate&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkarandevkate&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrkarandevkate&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-karandevkate-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karandevkate/)
+[![Gmail](https://img.shields.io/badge/-karandevkate225@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:karandevkate225@gmail.com)
+
+---
